@@ -1,4 +1,4 @@
-export const title = 'MyShapeArt';
+export const title = 'MyGradientArt';
 
 export const layout = '../_includes/layout.tsx';
 
@@ -10,7 +10,7 @@ const customStyle = {
 export default (data: Lume.Data, helpers: Lume.Helpers) => {
 	return (
 		<>
-			<div id = 'shapeArt' style = {customStyle}>
+			<div id='gradientArt' style={customStyle}>
 			</div>
 		</>
 	);
