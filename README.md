@@ -36,11 +36,11 @@ deno cache serve.ts
 
 ## 🔥 _Usage Information_
 
-Currently, the canvas displays a singular piece, with different variations, purposefully chosen to cover harmony and contrast of color. When hitting the `refresh` button, the canvas will display a new color variation.
+Currently, the canvas displays a singular piece, with different variations that may be enabled in the code by removing comments. Each variation is a different gradient, and the code is commented to explain the gradient variations.
 
 ## 🦕 _Deno Deployment_
 
-This project was deployed on [Deno Deploy](https://creative-line-stories.deno.dev/).
+This project was deployed on [Deno Deploy](https://color-gradients-explored.deno.dev/).
 
 ## 💬 _Questions_
 
